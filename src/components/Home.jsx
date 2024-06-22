@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import ResumePDF from '../assets/Nadya Bharrat Resume.docx.pdf'; // Import the PDF file
+import ResumePDF from '../assets/Resume.docx.pdf'; // Import the PDF file
 
 const Home = () => {
   const [text, setText] = useState("I'm a ");
-  const roles = ["Web Developer", "IT Support"];
+  const roles = ["IT Profesional", "Web Developer"];
   const [roleIndex, setRoleIndex] = useState(0);
   const [typingIndex, setTypingIndex] = useState(0);
   const [deleteIndex, setDeleteIndex] = useState(0);
@@ -51,7 +51,7 @@ const Home = () => {
   const handleResumeClick = () => {
     const link = document.createElement('a');
     link.href = ResumePDF;
-    link.download = 'Nadya_Bharrat_Resume.pdf'; // Set the desired file name for the download
+    link.download = 'Resume.pdf'; // Set the desired file name for the download
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

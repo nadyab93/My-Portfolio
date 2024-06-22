@@ -6,7 +6,7 @@ import Bootstrap from '../assets/bootstrap.png';
 import CSS from '../assets/css.png';
 import GitHub from '../assets/github.png';
 import Git from '../assets/git.png';
-import Gitlab from '../assets/gitlab.png'; // Added GitLab import
+import Gitlab from '../assets/gitlab.png';
 import HTML from '../assets/html.png';
 import JavaScript from '../assets/javascript.png';
 import Linux from '../assets/linux.png';
@@ -15,12 +15,13 @@ import Redux from '../assets/redux.png';
 import Tailwind from '../assets/tailwind.png';
 import Vite from '../assets/vite.png';
 import VM from '../assets/vm.png';
-import Wireshark from '../assets/wireshark.png'; // Moved to the end
+import Wireshark from '../assets/wireshark.png';
+import RestAPI from '../assets/restapi.png'; // Added RestAPI import
 
 const Skills = () => {
   const settings = {
     dots: false,
-    infinite: false, // Set to false to prevent looping
+    infinite: false,
     speed: 500,
     slidesToShow: 4,
     slidesToScroll: 1,
@@ -30,18 +31,19 @@ const Skills = () => {
   const skills = [
     { name: 'Bootstrap', icon: Bootstrap },
     { name: 'CSS', icon: CSS },
-    { name: 'GitHub', icon: GitHub },
     { name: 'Git', icon: Git },
-    { name: 'GitLab', icon: Gitlab }, // Added GitLab to the skills array
+    { name: 'GitHub', icon: GitHub },
+    { name: 'GitLab', icon: Gitlab },
     { name: 'HTML', icon: HTML },
     { name: 'JavaScript', icon: JavaScript },
     { name: 'Linux', icon: Linux },
     { name: 'React', icon: ReactImg },
     { name: 'Redux', icon: Redux },
+    { name: 'Rest API', icon: RestAPI },
     { name: 'Tailwind CSS', icon: Tailwind },
     { name: 'Vite', icon: Vite },
     { name: 'VM', icon: VM },
-    { name: 'Wireshark', icon: Wireshark },
+    { name: 'Wireshark', icon: Wireshark }
   ];
 
   return (
