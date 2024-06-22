@@ -69,9 +69,10 @@ const Home = () => {
           {text} {/* Display typed text */}
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I specialize in crafting exceptional digital experiences as a frontend 
-          developer and IT support professional. My focus is on creating responsive frontend web 
-          applications that captivate users with seamless design and functionality.
+          I excel in providing top-notch technical support and customer service 
+          with over 4 years of experience, specializing in troubleshooting web applications and managing 
+          customer inquiries. My expertise includes developing responsive web applications
+          using HTML, CSS, JavaScript, and React, delivering seamless and engaging digital experiences.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600' onClick={handleResumeClick}>

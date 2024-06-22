@@ -17,12 +17,13 @@ const About = () => {
               <p>Hey, I'm Nadya. Welcome! Take a peek around</p>
             </div>
             <div>
-              <p>As a newcomer to the tech world, I am equally passionate about both web development 
-                and IT support. Delving into frontend design, I discover joy in crafting visually 
-                captivating websites and applications. My goal in this venture into tech is to harmonize 
-                creativity with functionality seamlessly. Eager to embark on this journey, I aspire to create 
-                user-friendly interfaces and impactful designs. Ready to embrace the challenges and opportunities 
-                in web development and IT support!</p>  
+              <p>As a newcomer to the tech world, I bring 4+ years of experience in technical
+                support and customer service, with a strong passion for both web development and
+                IT support. I find joy in troubleshooting web applications and crafting visually captivating websites
+                using HTML, CSS, JavaScript, and React. Trained in Agile methodologies and API integration, I  
+                am eager to harmonize creativity with functionality, creating user-friendly interfaces and impactful
+                designs. Ready to embrace new challenges, I aspire to make significant contributions
+                to web development and IT support!</p>  
             </div>
           </div>
       </div>
