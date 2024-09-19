@@ -16,7 +16,7 @@ const Projects = () => {
     {
       title: 'Google-Clone',
       description:
-        'A Google homepage clone built with HTML, CSS, and JavaScript, replicating the search input and layout of the main page',
+        'A Google homepage clone built with HTML, CSS, and JavaScript, replicating the search input and layout of the main page.',
       link: 'https://nadyab93.github.io/google-clone/', // Replace with your actual project link
       github: 'https://github.com/nadyab93/google-clone', // Replace with your GitHub repo link
       image: googleCloneImage, // Add image reference

@@ -29,7 +29,7 @@ const About = () => {
             With over 4 years of experience in customer service and healthcare settings, I bring strong interpersonal skills to my technical roles. I am driven by my love for technology and problem-solving, constantly striving to improve and learn new skills.
           </p>
           <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 transition-colors duration-300">
-            When I'm not coding, I enjoy practicing Taekwondo, exploring the latest in tech, and working on personal projects that challenge my creativity and technical knowledge.
+            When I'm not coding, I enjoy going to the gym, exploring the latest in tech, and working on personal projects that challenge my creativity and technical knowledge.
           </p>
         </div>
       </div>
