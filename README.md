@@ -13,6 +13,8 @@ This is a personal portfolio website designed to showcase my skills, projects, a
 - Projects: Showcases my projects with descriptions and images.
 - Certifications: Lists my certifications with associated images.
 - Contact Me: Provides a contact form for reaching out directly.
+- Light and Dark Mode: Allows users to toggle between light and dark themes for improved readability and user preference.
+- Responsive Design: The website is optimized for both desktop and mobile devices, ensuring a smooth user experience across different screen sizes.
 
 # Technologies Used
 
@@ -30,6 +32,8 @@ This is a personal portfolio website designed to showcase my skills, projects, a
 2) View Projects: Explore the Projects section to see detailed descriptions and images of my work.
 3) Check Certifications: Review the Certifications section to see the credentials I've earned.
 4) Contact Me: Fill out the Contact Me form to send a message directly.
+5) Toggle Light and Dark Mode: Use the theme switcher to toggle between light and dark modes according to your preference.
+6) Responsive Design: Enjoy a seamless experience on both desktop and mobile devices.
 
 # External Resources
 
