@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Default light mode styles */
+html {
+  --background-image: url('./assets/city-day.jpg');
+}
+
+/* Dark mode styles */
+html.dark {
+  --background-image: url('./assets/city-night.jpg');
+}
+
+/* Apply background styles */
+.bg-blur::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: var(--background-image);
+  background-size: cover;
+  background-position: center;
+  filter: blur(2px);
+  z-index: -1;
+}
+
+.content-wrapper {
+  position: relative;
+  z-index: 1;
+} 
