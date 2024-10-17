@@ -1,5 +1,5 @@
 import React from 'react'; 
-import NadyaImage from '../assets/nadya-bharrat.jpg'; // Update the path according to your image
+import NadyaImage from '../assets/nadya-bharrat.jpg'; 
 
 const About = () => {
   return (

@@ -1,7 +1,7 @@
 import React from 'react';
-import weatherAppImage from '../assets/projects/weather-app.jpg'; // Importing weather-app image
-import googleCloneImage from '../assets/projects/google-clone.jpg'; // Importing google-clone image
-import todoImage from '../assets/projects/todo.jpg'; // Importing todo image
+import weatherAppImage from '../assets/projects/weather-app.jpg'; 
+import googleCloneImage from '../assets/projects/google-clone.jpg'; 
+import todoImage from '../assets/projects/todo.jpg'; 
 
 const Projects = () => {
   const projects = [
@@ -9,25 +9,25 @@ const Projects = () => {
       title: 'Weather-App',
       description:
         'A responsive weather app that fetches real-time data from a weather API and lets users toggle between Celsius and Fahrenheit.',
-      link: 'https://nadyab93.github.io/weather-app/', // Replace with your actual project link
-      github: 'https://github.com/nadyab93/weather-app', // Replace with your GitHub repo link
-      image: weatherAppImage, // Add image reference
+      link: 'https://nadyab93.github.io/weather-app/', 
+      github: 'https://github.com/nadyab93/weather-app', 
+      image: weatherAppImage,
     },
     {
       title: 'Google-Clone',
       description:
         'A Google homepage clone built with HTML, CSS, and JavaScript, replicating the search input and layout of the main page.',
-      link: 'https://nadyab93.github.io/google-clone/', // Replace with your actual project link
-      github: 'https://github.com/nadyab93/google-clone', // Replace with your GitHub repo link
-      image: googleCloneImage, // Add image reference
+      link: 'https://nadyab93.github.io/google-clone/', 
+      github: 'https://github.com/nadyab93/google-clone', 
+      image: googleCloneImage,
     },
     {
       title: 'Todo-List',
       description:
         'A to-do list app made with Vite and Tailwind CSS, allowing users to add, delete, mark tasks, sort, and enjoy a responsive design for web and mobile.',
-      link: 'https://todo-list-chi-six-13.vercel.app/', // Replace with your actual project link
-      github: 'https://github.com/nadyab93/Todo-List', // Replace with your GitHub repo link
-      image: todoImage, // Add image reference
+      link: 'https://todo-list-steel-omega.vercel.app/', 
+      github: 'https://github.com/nadyab93/Todo-List', 
+      image: todoImage, 
     },
   ];
 
