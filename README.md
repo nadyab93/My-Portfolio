@@ -2,9 +2,9 @@
 
 This is a personal portfolio website designed to showcase my skills, projects, and certifications. The portfolio includes sections for Home, About Me, Projects, Certifications, and Contact Me. The UI design was crafted to provide a clean and professional look, highlighting my achievements and technical expertise.
 
-![Screenshot 2024-09-19 145420](https://github.com/user-attachments/assets/dc290538-8bd7-4cfc-aad6-b65c38c0e718)
+![Screenshot 2024-10-17 110505](https://github.com/user-attachments/assets/ee1db48e-411e-4e64-a820-88a87e3e3327)
 
-![Screenshot 2024-09-19 145452](https://github.com/user-attachments/assets/b647d4c9-da1d-4e49-b223-8320fcd3c1dd)
+![Screenshot 2024-10-17 110557](https://github.com/user-attachments/assets/273b171d-dfe6-417c-a9d3-25257244e9b5)
 
 # Features
 
