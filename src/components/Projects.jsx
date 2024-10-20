@@ -25,7 +25,7 @@ const Projects = () => {
       title: 'Todo-List',
       description:
         'A to-do list app made with Vite and Tailwind CSS, allowing users to add, delete, mark tasks, sort, and enjoy a responsive design for web and mobile.',
-      link: 'https://todo-list-steel-omega.vercel.app/', 
+      link: 'https://todo-list-seven-mu-79.vercel.app/', 
       github: 'https://github.com/nadyab93/Todo-List', 
       image: todoImage, 
     },

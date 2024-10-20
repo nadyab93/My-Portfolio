@@ -23,13 +23,13 @@ const About = () => {
             About Me
           </h2>
           <p className="text-base md:text-lg mb-4 text-gray-700 dark:text-gray-300 transition-colors duration-300">
-            Hi, I'm Nadya Bharrat! Based in New York, I have a background in Web Development and End User Support. I’m passionate about creating efficient and scalable solutions for users and clients alike.
+            Hi, I'm Nadya Bharrat — a web developer who thrives on creating user-centered solutions that drive results.
           </p>
           <p className="text-base md:text-lg mb-4 text-gray-700 dark:text-gray-300 transition-colors duration-300">
-            With over 4 years of experience in customer service and healthcare settings, I bring strong interpersonal skills to my technical roles. I am driven by my love for technology and problem-solving, constantly striving to improve and learn new skills.
+            Based in New York, I bring over four years of experience bridging the gap between technology and people, with a background in customer service and healthcare. This gives me a unique perspective on building digital tools that truly work for users, whether I’m coding websites, troubleshooting issues, or providing hands-on support.
           </p>
           <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 transition-colors duration-300">
-            When I'm not coding, I enjoy going to the gym, exploring the latest in tech, and working on personal projects that challenge my creativity and technical knowledge.
+            What excites me most is turning complex technical challenges into functional, no-nonsense solutions that make life easier for clients and end users. From optimizing workflows to crafting scalable web systems, I’m driven by the impact my work has on improving efficiency and user experiences. When I'm not solving tech puzzles, you can find me at the gym, staying on top of tech trends, or working on projects that sharpen both my creativity and coding skills.
           </p>
         </div>
       </div>
