@@ -7,11 +7,11 @@ const Home = () => {
       className="min-h-screen flex flex-col items-center justify-center text-center px-6 bg-blur content-wrapper"
     >
       {/* "I am Nadya Bharrat." text in white */}
-      <h1 className="text-5xl font-bold mb-4 text-white">I am Nadya Bharrat.</h1>
+      <h1 className="text-5xl font-bold mb-4 text-white">My name is Nadya Bharrat.</h1>
 
       {/* "Based in New York..." text in white */}
       <p className="text-xl mb-6 text-white">
-        I am a Web Developer and End User Support Specialist with a strong focus on delivering effective technical solutions.
+        I am a End User Support Specialist and Web Developer with a strong focus on delivering effective technical solutions.
       </p>
 
       {/* Icons Section with light effect */}

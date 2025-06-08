@@ -23,13 +23,13 @@ const About = () => {
             About Me
           </h2>
           <p className="text-base md:text-lg mb-4 text-gray-700 dark:text-gray-300 transition-colors duration-300">
-            Hi, I'm Nadya Bharrat — a web developer who thrives on creating user-centered solutions that drive results.
+          Hi, I’m Nadya Bharrat — an aspiring IT support professional and web developer based in New York with a passion for creating user-focused tech solutions. I hold a Bachelor’s degree in Psychology and am pursuing a second Bachelor’s in Information Systems. With over four years of experience in customer service and pharmacy, I bring a unique perspective to building practical tools that truly help users.
           </p>
           <p className="text-base md:text-lg mb-4 text-gray-700 dark:text-gray-300 transition-colors duration-300">
-            Based in New York, I bring over four years of experience bridging the gap between technology and people, with a background in customer service and healthcare. This gives me a unique perspective on building digital tools that truly work for users, whether I’m coding websites, troubleshooting issues, or providing hands-on support.
+          Trained through Generation USA and PerScholas, I’m skilled in front-end development and desktop support, working with HTML, CSS, JavaScript, React, and Tailwind. I’m always learning new technologies like Firebase and Git to grow my skillset.
           </p>
           <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 transition-colors duration-300">
-            What excites me most is turning complex technical challenges into functional, no-nonsense solutions that make life easier for clients and end users. From optimizing workflows to crafting scalable web systems, I’m driven by the impact my work has on improving efficiency and user experiences. When I'm not solving tech puzzles, you can find me at the gym, staying on top of tech trends, or working on projects that sharpen both my creativity and coding skills.
+            What excites me most is turning complex challenges into clear, practical solutions—whether coding responsive websites or helping users troubleshoot issues with patience. When I’m not exploring tech, you’ll find me staying active, learning online, or working on projects that fuel my creativity and growth.
           </p>
         </div>
       </div>

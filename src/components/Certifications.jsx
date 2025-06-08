@@ -1,15 +1,11 @@
-import React from 'react';
-import generationImage from '../assets/certifications/generation.jpg'; 
-import w3schoolsImage from '../assets/certifications/w3schools.jpg'; 
-import perscholasImage from '../assets/certifications/perscholas.jpg'; 
+import React from 'react'; 
 import comptiaAPlusImage from '../assets/certifications/comptia-a-plus.jpg'; 
+import googleITImage from '../assets/certifications/google-it.jpg';
 
 const Certifications = () => {
   const certifications = [
-    { title: 'Generation USA', image: generationImage },
-    { title: 'W3Schools', image: w3schoolsImage },
-    { title: 'PerScholas', image: perscholasImage },
     { title: 'CompTIA A+', image: comptiaAPlusImage },
+    { title: 'Google IT Support', image: googleITImage },
   ];
 
   return (
