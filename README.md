@@ -3,10 +3,10 @@
 This is a personal portfolio website designed to showcase my skills, projects, and certifications. The portfolio includes sections for Home, About Me, Projects, Certifications, and Contact Me. The UI design was crafted to provide a clean and professional look, highlighting my achievements and technical expertise.
 
 ### Light Mode
-![Homepage Light](./assets/screenshots/homepage-light.png)
+![homepage-light](https://github.com/user-attachments/assets/21536eb6-d1e7-466b-b15f-53758c5ea41e)
 
 ### Dark Mode
-![Homepage Dark](./assets/screenshots/homepage-dark.png)
+![homepage-dark](https://github.com/user-attachments/assets/9f54633d-7fd0-4d8d-aedd-d7bc04878f1e)
 
 # Features
 
