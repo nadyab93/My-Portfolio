@@ -6,7 +6,7 @@ This is a personal portfolio website designed to showcase my skills, projects, a
 ![homepage-light](https://github.com/user-attachments/assets/62f6dc65-6a9b-4469-954a-7c0581e45ce7)
 
 ### Dark Mode
-![homepage-dark](https://github.com/user-attachments/assets/67c37e49-0057-4e57-930e-5c3a6b097965")
+![homepage-dark](https://github.com/user-attachments/assets/67c37e49-0057-4e57-930e-5c3a6b097965)
 
 # Features
 
