@@ -11,7 +11,7 @@ const Home = () => {
 
       {/* "Based in New York..." text in white */}
       <p className="text-xl mb-6 text-white">
-        I am a End User Support Specialist and Web Developer with a strong focus on delivering effective technical solutions.
+        I am a a tech professional with a strong foundation in IT support, web development, and user-centered problem-solving.
       </p>
 
       {/* Icons Section with light effect */}

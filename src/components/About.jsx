@@ -23,13 +23,13 @@ const About = () => {
             About Me
           </h2>
           <p className="text-base md:text-lg mb-4 text-gray-700 dark:text-gray-300 transition-colors duration-300">
-          Hi, I’m Nadya Bharrat — an aspiring IT support professional and web developer based in New York with a passion for creating user-focused tech solutions. I hold a Bachelor’s degree in Psychology and am pursuing a second Bachelor’s in Information Systems. With over four years of experience in customer service and pharmacy, I bring a unique perspective to building practical tools that truly help users.
+          With over four years of experience in customer-facing roles, I bring a unique mix of technical skills and empathy to every project. My background in psychology helps me understand user needs, while my training in software development and IT support allows me to build and maintain effective, practical solutions.
           </p>
           <p className="text-base md:text-lg mb-4 text-gray-700 dark:text-gray-300 transition-colors duration-300">
-          Trained through Generation USA and PerScholas, I’m skilled in front-end development and desktop support, working with HTML, CSS, JavaScript, React, and Tailwind. I’m always learning new technologies like Firebase and Git to grow my skillset.
+          I'm skilled in front-end technologies like HTML, CSS, JavaScript, and React, and have experience troubleshooting systems, supporting end users, and analyzing data. Whether I’m coding interfaces, resolving support tickets, or streamlining workflows, I focus on making tech more accessible and impactful.
           </p>
           <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 transition-colors duration-300">
-            What excites me most is turning complex challenges into clear, practical solutions—whether coding responsive websites or helping users troubleshoot issues with patience. When I’m not exploring tech, you’ll find me staying active, learning online, or working on projects that fuel my creativity and growth.
+            I’m always exploring new tools and approaches to grow as a developer, analyst, and problem-solver. My goal is to contribute to innovative teams where I can use both technical and soft skills to improve user experiences and deliver results.
           </p>
         </div>
       </div>
